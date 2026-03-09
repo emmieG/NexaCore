@@ -1,3 +1,4 @@
+#NexaCore
 # Local Private AI Stack — OpenClaw + Ollama + SearXNG
 
 A fully private, fully local AI setup that gives you a capable AI assistant with real-time web search. Nothing leaves your machine except SearXNG's outbound searches. No API keys required. No cloud services.
