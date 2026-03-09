@@ -33,8 +33,8 @@ https://www.reddit.com/r/openclaw/comments/1rm5h3c/solved_how_to_use_local_searx
 ## Quick Start
 
 ```bash
-git clone https://github.com/emmieG/local-ai-stack
-cd local-ai-stack
+git clone https://github.com/emmieG/NexaCore
+cd NexaCore
 bash rebuild.sh
 ```
 
