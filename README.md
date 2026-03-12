@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="nexacore-logo.jpg" alt="NexaCore" width="600"/>
+</p>
 # NexaCore — Private Local AI Stack
 
 A fully private, fully local AI setup with real-time web search and optional voice input/output. Nothing leaves your machine except SearXNG's outbound searches. No API keys required. No cloud services.
